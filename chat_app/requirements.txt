@@ -8,6 +8,8 @@ unipath
 requests
 pycryptodome==3.9.7
 celery
+gevent
 gevent-websocket
 kombu
 gunicorn
+redis
